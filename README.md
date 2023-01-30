@@ -24,3 +24,4 @@ L'utilisateur est placé devant le bureau et peut bien entendu tourner la tête.
 
 # Ce qui ne marche pas 
 Une difficulté rencontrée est le déplacement. En effet, au moment du commit final, ils ne sont pas possibles afin de bouger dans la pièce modélisée.
+Il y a également eu un problème de connexion au gitlab de l'IUT en ssh à la fin du projet, ce qui explique la présence du projet sur GitHub.

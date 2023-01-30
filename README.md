@@ -7,6 +7,9 @@
 
 ----
 
+## Note
+Il n'y a qu'un nombre limité de commits car nous avons rencontrés des problèmes, et avons dû recréer ce dépôt à la dernière séance.
+
 # Description
 En 2040, le suivi des patients se passe à distance, depuis des salles de serveurs.  
 Sur le moniteur du bureau central se trouve le résultat de l'appel à l'API, modélisant le pouls d'une personne. 
@@ -16,7 +19,8 @@ Sur le moniteur du bureau central se trouve le résultat de l'appel à l'API, mo
 - OSWALD Bastien - *DAWIN B*
 
 # Aide utilisateur
-`git clone git@gitlab-ce.iut.u-bordeaux.fr:tomdupu/2022-boswald-tomdupu-lprv.git`
+`git clone https://github.com/TDpy/2022-boswald-tomdupu-lprv.git`
+
 
 
 # Fonctionnalités disponibles
